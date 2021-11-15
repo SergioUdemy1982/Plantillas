@@ -1,0 +1,26 @@
+{
+    "id": "DFC27772",
+    "path": "~/Data Science/R/Proyectos/PositionSalary_SVM/1.-Preprocesado.R",
+    "project_path": "1.-Preprocesado.R",
+    "type": "r_source",
+    "hash": "2343366942",
+    "contents": "",
+    "dirty": false,
+    "created": 1626448360592.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "21,0",
+        "scrollLine": "2"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626448566,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626448567002,
+    "read_only": false,
+    "read_only_alternatives": []
+}

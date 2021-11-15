@@ -1,0 +1,27 @@
+{
+    "id": "E3AEA8ED",
+    "path": "~/Data Science/R/Proyectos/H2O/Demo1.R",
+    "project_path": "Demo1.R",
+    "type": "r_source",
+    "hash": "4259004223",
+    "contents": "",
+    "dirty": false,
+    "created": 1635518433514.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "81,0",
+        "scrollLine": "62"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1635522366,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1635522366882,
+    "read_only": false,
+    "read_only_alternatives": []
+}

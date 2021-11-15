@@ -1,0 +1,27 @@
+{
+    "id": "3EFF1AE6",
+    "path": "~/Data Science/R/Proyectos/PositionSalaryTree/4.-ModeloRandomForest.R",
+    "project_path": "4.-ModeloRandomForest.R",
+    "type": "r_source",
+    "hash": "3064135843",
+    "contents": "",
+    "dirty": false,
+    "created": 1626743262524.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,29",
+        "scrollLine": "15"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1626745500,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1626745501008,
+    "read_only": false,
+    "read_only_alternatives": []
+}
